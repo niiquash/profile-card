@@ -122,3 +122,19 @@ html {
   margin-top: 0;
   font-size: 16px;
 }
+
+.footer {
+  display: flex;
+  height: 7rem;
+  width: inherit;
+  background: #161619;
+  border-radius: 0px 0px 10px 10px;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.footer--links__icon {
+  height: 5vh;
+}
